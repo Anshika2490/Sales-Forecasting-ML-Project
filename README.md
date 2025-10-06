@@ -47,35 +47,35 @@ This project requires the following Python libraries:
 # Workflow Summary
 
 1. Data Collection and Exploration
-   -Loaded dataset and explored key features
-   -Checked for missing values and data distribution
+   - Loaded dataset and explored key features
+   - Checked for missing values and data distribution
 
 2. Data Preprocessing
-   -Handled missing data
-   -Encoded categorical variables
-   -Normalized and transformed numerical columns
+   - Handled missing data
+   - Encoded categorical variables
+   - Normalized and transformed numerical columns
 
 3. Exploratory Data Analysis (EDA)
-   -Used visualizations to identify sales trends and correlations
-   -Plotted seasonal and time-based trends
+   - Used visualizations to identify sales trends and correlations
+   - Plotted seasonal and time-based trends
 
 4. Model Building and Comparison
-   -Trained multiple models (Random Forest, LightGBM, etc.)
-   -Tuned hyperparameters for optimal results
-   -Compared model performance
+   - Trained multiple models (Random Forest, LightGBM, etc.)
+   - Tuned hyperparameters for optimal results
+   - Compared model performance
 
 5. Results and Evaluation
-   -Selected the best-performing model based on accuracy and RMSE
-   -Visualized actual vs predicted sales values
+   - Selected the best-performing model based on accuracy and RMSE
+   - Visualized actual vs predicted sales values
 
 6. Results Highlights
-   -LightGBM outperformed other models with the lowest RMSE and highest accuracy.
-   -Achieved approximately 15% improvement over baseline models.
-   -Generated visual insights highlighting key sales trends and influential factors.
+   - LightGBM outperformed other models with the lowest RMSE and highest accuracy.
+   - Achieved approximately 15% improvement over baseline models.
+   - Generated visual insights highlighting key sales trends and influential factors.
 
 ---
 
 # License
-   -MIT License — you are free to view and learn from this code.
+   - MIT License — you are free to view and learn from this code.
    
 
