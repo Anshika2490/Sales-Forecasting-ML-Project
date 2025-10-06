@@ -77,5 +77,11 @@ This project requires the following Python libraries:
 
 # License
    - MIT License — you are free to view and learn from this code.
+
+---
+
+# If the HTML and IPYNB file doesnt open then open it from here:
+- https://drive.google.com/drive/folders/1D_2axF9v8lk7s2-kLyzYgtGpyr99qRSB?usp=sharing
+- You can view the raw code , the link of the html file webpage and ipynb. 
    
 
